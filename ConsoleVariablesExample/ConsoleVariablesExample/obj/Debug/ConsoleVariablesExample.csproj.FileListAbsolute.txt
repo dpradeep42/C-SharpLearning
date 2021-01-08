@@ -1,0 +1,6 @@
+C:\Users\dprad\source\repos\ConsoleVariablesExample\ConsoleVariablesExample\bin\Debug\ConsoleVariablesExample.exe.config
+C:\Users\dprad\source\repos\ConsoleVariablesExample\ConsoleVariablesExample\bin\Debug\ConsoleVariablesExample.exe
+C:\Users\dprad\source\repos\ConsoleVariablesExample\ConsoleVariablesExample\bin\Debug\ConsoleVariablesExample.pdb
+C:\Users\dprad\source\repos\ConsoleVariablesExample\ConsoleVariablesExample\obj\Debug\ConsoleVariablesExample.csproj.CoreCompileInputs.cache
+C:\Users\dprad\source\repos\ConsoleVariablesExample\ConsoleVariablesExample\obj\Debug\ConsoleVariablesExample.exe
+C:\Users\dprad\source\repos\ConsoleVariablesExample\ConsoleVariablesExample\obj\Debug\ConsoleVariablesExample.pdb

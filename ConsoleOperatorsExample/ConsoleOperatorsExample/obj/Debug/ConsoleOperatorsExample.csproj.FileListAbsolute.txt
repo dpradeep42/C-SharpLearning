@@ -1,0 +1,7 @@
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\obj\Debug\ConsoleOperatorsExample.csprojAssemblyReference.cache
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\obj\Debug\ConsoleOperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\bin\Debug\ConsoleOperatorsExample.exe.config
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\bin\Debug\ConsoleOperatorsExample.exe
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\bin\Debug\ConsoleOperatorsExample.pdb
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\obj\Debug\ConsoleOperatorsExample.exe
+C:\Users\dprad\source\repos\ConsoleOperatorsExample\ConsoleOperatorsExample\obj\Debug\ConsoleOperatorsExample.pdb

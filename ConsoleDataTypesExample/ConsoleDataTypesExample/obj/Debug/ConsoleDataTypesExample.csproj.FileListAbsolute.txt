@@ -1,0 +1,7 @@
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\bin\Debug\ConsoleDataTypesExample.exe.config
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\bin\Debug\ConsoleDataTypesExample.exe
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\bin\Debug\ConsoleDataTypesExample.pdb
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\obj\Debug\ConsoleDataTypesExample.csprojAssemblyReference.cache
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\obj\Debug\ConsoleDataTypesExample.csproj.CoreCompileInputs.cache
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\obj\Debug\ConsoleDataTypesExample.exe
+C:\Users\dprad\source\repos\ConsoleDataTypesExample\ConsoleDataTypesExample\obj\Debug\ConsoleDataTypesExample.pdb

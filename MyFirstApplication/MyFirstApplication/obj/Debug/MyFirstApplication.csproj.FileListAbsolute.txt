@@ -1,0 +1,7 @@
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojAssemblyReference.cache
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\Users\dprad\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb

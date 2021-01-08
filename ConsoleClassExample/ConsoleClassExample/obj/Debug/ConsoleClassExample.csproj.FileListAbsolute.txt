@@ -1,0 +1,7 @@
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\bin\Debug\ConsoleClassExample.exe.config
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\bin\Debug\ConsoleClassExample.exe
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\bin\Debug\ConsoleClassExample.pdb
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\obj\Debug\ConsoleClassExample.csprojAssemblyReference.cache
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\obj\Debug\ConsoleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\obj\Debug\ConsoleClassExample.exe
+C:\Users\dprad\source\repos\ConsoleClassExample\ConsoleClassExample\obj\Debug\ConsoleClassExample.pdb
